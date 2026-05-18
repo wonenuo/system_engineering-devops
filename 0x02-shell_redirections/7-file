@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "\\*\\\\'\\\"Best School\\\"\\'\\\\*\\$\\?\\*\\*\\*\\*\\*:)\n"
+echo "\*\\\\'\"Best School\"\\'\\\\*\$\?\*\*\*\*\*:)"
+echo "Best School"
